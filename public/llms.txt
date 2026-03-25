@@ -1,0 +1,55 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover GTIM GROUP — Israel&#39;s premier destination for luxury furniture and interior design. Timeless craftsmanship, bespoke pieces, and modern elegance await you.
+
+### About Us
+https://example.com/about
+Meet the visionaries at GTIM GROUP. We blend minimalist aesthetics with premium materials to redefine luxury furniture in Israel for designers, architects, and private clients.
+
+### Products / Collections
+https://example.com/collections
+Browse GTIM GROUP&#39;s curated collections of high end furniture in Israel — from statement sofas to refined bedroom sets crafted for those who demand nothing less than extraordinary.
+
+### Custom Furniture
+https://example.com/custom-furniture
+Commission bespoke custom furniture tailored exclusively to your space and style. GTIM GROUP delivers luxury furniture in Israel built with precision, passion, and premium materials.
+
+### Projects / Gallery
+https://example.com/projects
+Step inside stunning interiors brought to life by GTIM GROUP. Our project gallery showcases high end furniture in Israel installed across elite homes, offices, and design-forward spaces.
+
+### Contact
+https://example.com/contact
+Ready to transform your space? Reach out to GTIM GROUP — Israel&#39;s leading luxury furniture experts. Let&#39;s create something extraordinary together. Your dream interior is one conversation away.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
